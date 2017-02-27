@@ -28,6 +28,7 @@ inputs = [
     # "vertical15k",
 ]
 
+
 def profile():
     for m in methods:
         for i in inputs:
